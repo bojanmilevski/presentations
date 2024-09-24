@@ -4,26 +4,26 @@ theme: rose-pine
 class: invert
 style: |
   * {
-  font-family: 'CaskaydiaCove Nerd Font Mono';
+    font-family: 'CaskaydiaCove Nerd Font Mono';
   }
 
   h1 {
-  font-size: 60px;
-  text-align: center;
+    font-size: 60px;
+    text-align: center;
   }
 
   p, li {
-  font-size: 24px;
+    font-size: 24px;
   }
 
   .columns {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1rem;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
   }
 
   .author {
-  text-align: center;
+    text-align: center;
   }
 ---
 

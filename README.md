@@ -1,6 +1,6 @@
 # PRESENTATIONS
 
-A compilations and source files of presentations I have held.
+Source code for various educational presentations I have held.
 
 ## NOTE
 
